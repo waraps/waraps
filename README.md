@@ -2,14 +2,13 @@
 
 ## 🚀 About Me
 
-🎓 I am Manuel Meneses, a **Cross Platform Developer** specializing in **Front End Web Development**.
+👨‍💻 I am Manuel Meneses, a **Software Developer** specializing in **Front End Development**.
 
-<!-- 👨‍💻 I enjoy contributing to **Open Source Projects** and am really enthusiastic about learning new technology. In 2020, I learnt **Django**, **Electron**, **Flutter**, **React** and **TypeScript**. In 2021 till now, I learnt **Next.js**, **SASS**, **Progressive Web App (PWA)** and a bit about **Three.js**. I also got started with [**freelancing**](https://www.upwork.com/freelancers/~01c12e516ee1d35044) and [**blogging**](https://dev.to/ruppysuppy) recently.
+🧑‍🎓 I consider myself as a professional who likes to learn about new technology and improve his skills every day. I always aim to use best practices with an emphasis on creating beautiful interfaces that are easy to use.
 
-🎸 Outside the world of tech too, I love pushing myself to develop new skills ranging from **guitar**, **break dancing**, **sketching**, **touch typing** to some whacky ones like **writing with my left hand** (only aiming from mastery only in **guitar** and **dancing** though).
+🙇 Outside the world of tech too, I love to stay fit and healthy. I also like to share with my friends and enjoy a good day with them.
 
 ✈️ I love **travelling** as well, even though its been some time since I last travelled.
--->
 
 ## 🛠️ Skills
 
@@ -18,7 +17,7 @@
 ![javascript](https://img.shields.io/badge/JavaScript-323330?style=flat&logo=javascript&logoColor=F7DF1E)
 ![python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
 
-### Cross Platfrom Development
+### Mobile Development
 
 ![react-native](https://img.shields.io/badge/React%20Native-29B2FE?style=flat&logo=react&logoColor=20232A)
 
