@@ -30,7 +30,7 @@
 
 ### Cross Platfrom Development
 
-![react-native](https://img.shields.io/badge/React-29B2FE?style=flat&logo=react&logoColor=20232A)
+![react-native](https://img.shields.io/badge/React-29B2FE?style=flat&logo=react-native&logoColor=20232A)
 
 ### Front-End Development
 
