@@ -28,9 +28,9 @@
 ![javascript](https://img.shields.io/badge/JavaScript-323330?style=flat&logo=javascript&logoColor=F7DF1E)
 ![python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
 
-<!-- ### Cross Platfrom Development
+### Cross Platfrom Development
 
-![react-native](https://img.shields.io/badge/Flutter-28B6F6?style=for-the-badge&logo=flutter&logoColor=white) -->
+![react-native](https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=29B2FE)
 
 ### Front-End Development
 
