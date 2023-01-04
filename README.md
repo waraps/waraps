@@ -1,14 +1,12 @@
 # Hi there! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="29px">
 
-## 🚀 About Me
+## About Me 👦
 
-👨‍💻 I am Manuel Meneses, a **Software Developer** specializing in **Front End Development**.
+I am Manuel Meneses, a **Software Developer** specializing in **Front End Development**.
 
-🧑‍🎓 I consider myself as a professional who likes to learn about new technology and improve his skills every day. I always aim to use best practices with an emphasis on creating beautiful interfaces that are easy to use.
+👨‍💻 I consider myself as a professional who likes to learn about new technology and improve his skills every day. I always aim to use best practices with an emphasis on creating beautiful interfaces that are easy to use.
 
-🙇 Outside the world of tech too, I love to stay fit and healthy. I also like to share with my friends and enjoy a good day with them.
-
-✈️ I love **travelling** as well, even though its been some time since I last travelled.
+🙇 Outside the world of tech too, I like to stay fit and healthy. I love travelling. I also like to share with my friends and enjoy a good day with them.
 
 ## 🛠️ Skills
 
