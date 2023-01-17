@@ -43,7 +43,7 @@ I am Manuel Meneses, a **Software Developer** specializing in **Front End Develo
 ![sqlite](https://img.shields.io/badge/SQLite-07405E?style=flat&logo=sqlite&logoColor=white)
 ![mysql](https://img.shields.io/badge/MySQL-00000F?style=flat&logo=mysql&logoColor=white)
 ![mongodb](https://img.shields.io/badge/MongoDB-47A248?style=flat&logo=mongodb&logoColor=white)
-![prisma](https://img.shields.io/badge/Prisma-20232A?style=flat&logo=prisma&logoColor=white)
+![prisma](https://img.shields.io/badge/Prisma-212937?style=flat&logo=prisma&logoColor=white)
 
 ### Version Control
 ![git](https://img.shields.io/badge/Git-%23F05033.svg?logo=git&logoColor=white&flat)
